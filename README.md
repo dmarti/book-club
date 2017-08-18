@@ -15,6 +15,11 @@ Moe, Richard. [The Last Full Measure: The Life and Death of the First Minnesota 
 
 ### Near future science fiction
 
+Sterling, Bruce. [Islands in the
+Net](https://openroadmedia.com/ebook/Islands-in-the-Net/9781497686519).
+(Also a helpful guide to working as part of a globally
+distributed team.)
+
 Suarez, Daniel. [Daemon](http://thedaemon.com/). 
 
 
