@@ -2,11 +2,22 @@
 List of books (please fork and add some)
 
 
-## Near future science fiction
+## Non-fiction
 
-Suarez, Daniel. [Daemon](http://thedaemon.com/)
+### History
+
+Moe, Richard. [The Last Full Measure: The Life and Death of the First Minnesota Volunteers](http://www.mnhs.org/mnhspress/books/last-full-measure)
 
 
-## Urban fantasy
 
-O'Malley, Daniel. [The Rook](http://www.rookfiles.com/)
+## Fiction
+
+
+### Near future science fiction
+
+Suarez, Daniel. [Daemon](http://thedaemon.com/). 
+
+
+### Urban fantasy
+
+O'Malley, Daniel. [The Rook](http://www.rookfiles.com/). 
