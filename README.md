@@ -42,3 +42,7 @@ park, in a rainstorm, with no memory of her previous
 life or career.  Turns out that she's in a book
 written by the mutant spawn of J.K. Rowling and
 Charles Stross.
+
+### Sufficiently Advanced Magic
+
+Andrew Rowe's [Sufficiently Advanced Magic (Arcane Ascension Book 1)](https://www.amazon.com/Sufficiently-Advanced-Magic-Arcane-Ascension-ebook/dp/B06XBFD7CB) Five years ago, Corin Cadence’s brother entered the Serpent Spire — a colossal tower with ever-shifting rooms, traps, and monsters. Those who survive the spire’s trials return home with an attunement: a mark granting the bearer magical powers. According to legend, those few who reach the top of the tower will be granted a boon by the spire’s goddess. 
